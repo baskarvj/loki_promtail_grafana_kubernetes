@@ -1,4 +1,4 @@
-![loki_cover_image (1)](https://github.com/baskarvj/loki_promtail_grafana_kubernetes/assets/103120325/514d64c8-b423-48cc-bbab-7904a379c3e7)
+![image](https://github.com/baskarvj/loki_promtail_grafana_kubernetes/assets/103120325/dcdbc8c4-68a4-43dd-9c5d-dd7db1a20d2e)
 
 ### Helm Installation ######
 ~~~
